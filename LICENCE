@@ -1,5 +1,26 @@
-Images licensed under CC0 1.0(Public Domain)
-Free use without restrictions.
+# LICENSE
 
-See:https://creativecommons.org/publicdomain/zero/1.0/deed.en
+## Images
 
+This dataset contains a total of 341 images distributed across the following
+agricultural pest species:
+- Ceratitis capitata (adult)
+- Dione juno (adult)
+- Dione juno (larva)
+- Ligyrus gibbosus (adult)
+- Spodoptera frugiperda (adult)
+- Spodoptera frugiperda (larva)
+
+All images were sourced from iNaturalist and released by their authors under
+the CC0 1.0 Universal (Public Domain) license. This license permits
+redistribution, modification, and use without restrictions.
+See: https://creativecommons.org/publicdomain/zero/1.0/deed.en
+
+## Original Sources
+
+- Ceratitis capitata (adult): https://www.inaturalist.org/taxa/199404-Ceratitis-capitata/browse_photos?photo_license=cc0
+- Dione juno (adult): https://www.inaturalist.org/taxa/130451-Dione-juno/browse_photos?photo_license=cc0&term_id=1&term_value_id=2
+- Dione juno (larva): https://www.inaturalist.org/taxa/130451-Dione-juno/browse_photos?photo_license=cc0&term_id=1&term_value_id=6
+- Ligyrus gibbosus (adult): https://www.inaturalist.org/taxa/1430438-Ligyrus-gibbosus/browse_photos?photo_license=cc0
+- Spodoptera frugiperda (adult): https://www.inaturalist.org/taxa/132468-Spodoptera-frugiperda/browse_photos?photo_license=cc0&term_id=1&term_value_id=2
+- Spodoptera frugiperda (larva): https://www.inaturalist.org/taxa/132468-Spodoptera-frugiperda/browse_photos?photo_license=cc0&term_id=1&term_value_id=6
